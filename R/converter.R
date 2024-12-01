@@ -112,7 +112,7 @@ mass <- function(value, from_unit, to_unit) {
     decagram = 1 / 10,
     hectogram = 1 / 100,
     centigram = 100,
-    milligram = 1000
+    milligram = 1000,
     ton = 1 / 1e6,
     quintal = 1 / 1e5
   )
